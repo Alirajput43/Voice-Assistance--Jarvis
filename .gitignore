@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+myenv/
+myvenv/
+venv/
+
+.env
+.env.*
+
+.vscode/
+tempcoderunner.py
